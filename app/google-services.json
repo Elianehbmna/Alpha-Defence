@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "91507012582",
+    "firebase_url": "https://alphadefence-87450.firebaseio.com",
+    "project_id": "alphadefence-87450",
+    "storage_bucket": "alphadefence-87450.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:91507012582:android:0f22e1bb8ba6f465b5dc27",
+        "android_client_info": {
+          "package_name": "com.example.alphadefence"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "91507012582-vonck26eq9th71p84khhmsn2523bcbf8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNZJe4nNzIm3oAaKjyzn5Vem2zavhN-Jo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "91507012582-vonck26eq9th71p84khhmsn2523bcbf8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
